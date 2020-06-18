@@ -1,0 +1,17 @@
+"""""""""""""""""""""""""""""""""""""""""
+" Gui
+set number
+set lines=100
+set columns=140
+winpos 33 0
+set guifont=Courier_New:h9:cANSI
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+colorscheme desert
+syntax on
+set showmatch "show matching brackets/braces
+set guioptions-=T "remove the toolbar
+set nocompatible
+
